@@ -7,15 +7,25 @@ Contains themes:
 
 * 2morrow Night
 * 2morrow Night (Eighties)
+* 2morrow Night Source Code Pro
 * Basic
+* Source Code Pro
 * Coal Graal
+* Coal Graal Source Code Pro
 * Glitterbomb
+* Glitterbomb Source Code Pro
 * Kellys
+* Kellys Source Code Pro
 * Monokai
+* Monokai Source Code Pro
 * Night
+* Night Source Code Pro
 * Resesif
+* Resesif Source Code Pro
 * Sidewalk Chalk
+* Sidewalk Chalk Source Code Pro
 * Sunset
+* Sunset Source Code Pro
 
 Installation
 -----------
@@ -37,3 +47,4 @@ Usage
 
 Select the theme from the prefences menu of Xcode.
 The font I use is Envy Code R, available [here][http://damieng.com/creative/typography]
+To use the Source Code Pro subsets download the [Font][https://github.com/adobe/Source-Code-Pro/downloads]
