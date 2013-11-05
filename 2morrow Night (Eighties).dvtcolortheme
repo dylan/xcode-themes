@@ -3,27 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.994565 0.994565 0.994565 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>AnonymousPro - 17.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.994565 0.994565 0.994565 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>AnonymousPro - 17.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.317071 0.437736 1 1</string>
+	<string>0.68796 0.889164 0.983696 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>AnonymousPro - 17.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.994565 0.994565 0.994565 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 11.0</string>
+	<string>AnonymousPro - 17.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.994565 0.994565 0.994565 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Bold - 11.0</string>
+	<string>AnonymousPro - 17.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.999886 1 0.99984 1</string>
+	<string>0.175755 0.175749 0.175752 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -91,8 +91,52 @@
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.character</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.number</key>
+		<string>AnonymousPro - 17.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 12.0</string>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.string</key>
+		<string>AnonymousPro - 17.0</string>
+		<key>xcode.syntax.url</key>
+		<string>AnonymousPro - 17.0</string>
 	</dict>
 </dict>
 </plist>
