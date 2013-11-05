@@ -5,16 +5,18 @@ The standard color themes that come with xcode have never worked for me (sorry A
 
 Contains themes:
 
-* 2morrow Night
-* 2morrow Night (Eighties)
-* Coal Graal
-* Glitterbomb
-* Kellys
-* Monokai
-* Night
-* Resesif
-* Sidewalk Chalk
-* Sunset
+name | preview
+---|---
+2morrow Night | ![2morrow Night](https://github.com/fidgetfu/xcode-themes/raw/master/2morrow%20night.png)
+2morrow Night (Eighties) | ![2morrow Night 80's](https://github.com/fidgetfu/xcode-themes/raw/master/2%20morrow%20night%2080s.png)
+Coal Graal | ![Coal Graal](https://github.com/fidgetfu/xcode-themes/raw/master/Coal%20Graal.png)
+Glitterbomb | ![Glitterbomb](https://github.com/fidgetfu/xcode-themes/raw/master/Glitterbomb.png)
+Kellys | ![Kellys](https://github.com/fidgetfu/xcode-themes/raw/master/Kellys.png)
+Monokai | ![Monokai](https://github.com/fidgetfu/xcode-themes/raw/master/Monokai.png)
+Night | ![Night](https://github.com/fidgetfu/xcode-themes/raw/master/Night.png)
+Resesif | ![Resesif](https://github.com/fidgetfu/xcode-themes/raw/master/Resesif.png)
+Sidewalk Chalk | ![Sidewalk Chalk](https://github.com/fidgetfu/xcode-themes/raw/master/Sidewalk%20Chalk.png)
+Sunset | ![Sunset](https://github.com/fidgetfu/xcode-themes/raw/master/Sunset.png)
 
 Installation
 -----------
